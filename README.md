@@ -22,12 +22,7 @@ This repository contains my solutions for the following homework tasks:
    - ANFIS (Adaptive Neuro-Fuzzy Inference System)
    - Fuzzy Neural Networks
 
-## 🛠️ Implementation Highlights
-| Task | Technologies Used | Key Files |
-|------|-------------------|-----------|
-| Fuzzy Controller | Python, `scikit-fuzzy` | [`fuzzy_controller.py`](fuzzy/) |
-| Neural Network | PyTorch/TensorFlow | [`nn_model.ipynb`](neural/) |
-| Hybrid System | MATLAB/Python | [`anfis_demo.m`](hybrid/) |
+
 
 ## 🚀 How to Run
 1. Clone repository:
