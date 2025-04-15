@@ -27,4 +27,4 @@ This repository contains my solutions for the following homework tasks:
 ## 🚀 How to Run
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/fuzzy-neural-homework.git
+   git clone https://github.com/yourusername/FuzzyLogicAndNeuralNetworks
